@@ -6,7 +6,7 @@ logo_url:           /assets/20200318_161035_390.jpg # Get it from GitHub API: ht
 
 # Site Settings
 url:                https://the-plain.github.io # main url
-baseurl:            /the-plain
+baseurl:            /the-plain.github.io
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
