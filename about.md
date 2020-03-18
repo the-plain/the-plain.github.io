@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-Hello.
+Say hi,
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Bạn đang vào blog của một anonymous nào đó.
+Ở đây anonymous viết dạo những chuyện ngoài lề công việc.
 
 **Less is more..**
