@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist blog"
 author_name:        "Rpc" # change this to your name
-logo_url:           /assets/B612_20200318_161035_390.jpg # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /assets/20200318_161035_390.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://the-plain.github.io # main url
