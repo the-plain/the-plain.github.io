@@ -5,7 +5,6 @@ title: About
 
 Say hi,
 
-Bạn đang vào blog của một anonymous nào đó.
-Ở đây anonymous viết dạo những chuyện ngoài lề công việc.
+Anonymous  viết dạo những chuyện ngoài lề công việc ở đây.
 
-**Less is more..**
+**Less is more..**a
