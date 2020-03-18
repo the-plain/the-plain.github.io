@@ -1,8 +1,8 @@
 # Site Info
 title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           /assets/avatar.jpg # Get it from GitHub API: https://api.github.com/users/<username>
+description:        "A minimalist blog"
+author_name:        "Rpc" # change this to your name
+logo_url:           /assets/B612_20200318_161035_390.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://heiswayi.github.io # main url
