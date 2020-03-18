@@ -43,6 +43,6 @@ Mình không sociable cho lắm, nên github.io cho tĩnh vậy.
     Là nhạc anh sẽ còn mơ
     Mơ đến rất lâu.
     
-```Đen Mơ.```
+```Đen.```
 
 **Less is more..**
