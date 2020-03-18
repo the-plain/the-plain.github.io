@@ -5,6 +5,7 @@ title: About
 
 Say hi,
 
-Anonymous  viết dạo những chuyện ngoài lề công việc ở đây.
+Cần phải viết một cái gì đó.
+Mình không sociable cho lắm, nên github.io cho tĩnh vậy.
 
-**Less is more..**a
+**Less is more..**
