@@ -1,8 +1,8 @@
 # Site Info
 title:              "The Plain"
 description:        "A minimalist blog"
-author_name:        "The Plain Anonymous" # change this to your name
-logo_url:           /assets/IMG_20200319_012820.jpg # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "The Plain - Vùng đồng bằng" # change this to your name
+logo_url:           /assets/IMG_20200319_021654.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://the-plain.github.io # main url
