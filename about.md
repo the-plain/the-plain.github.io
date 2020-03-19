@@ -50,6 +50,6 @@ Mh không sociable cho lắm nên github.io cho tĩnh vậy.
     Thế nên yên tâm một điều
     Là nhạc anh sẽ còn mơ
     
-    Mơ đến rất lâu. ```Đen.```
+    Mơ đến rất lâu. <<<Đen>>>.
 
 **Less is more..**
