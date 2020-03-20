@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist blog"
 author_name:        "The Plain - Vùng Đồng Bằng." # change this to your name
-logo_url:           /assets/IMG_20200319_135917.jpg # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /assets/DL2019/8.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://the-plain.github.io # main url
