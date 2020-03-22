@@ -1,11 +1,18 @@
 ---
-title: DN/H - Đ Home
+title: DN/H - Friend Home.
 updated: 2019-03-01 15:00
 ---
 
 ...
 
 ![](/assets/DN/1.jpg)
+Chờ đón
+
+![](/assets/DN/11.jpg)
+
+![](/assets/DN/6_.jpg)
+Quảng Điền nè !!
+Hồi ở Huế đạp xe về nhà Đ theo đường này
 
 ![](/assets/DN/2.jpg)
 
@@ -17,7 +24,9 @@ updated: 2019-03-01 15:00
 
 ![](/assets/DN/6.jpg)
 
-![](/assets/DN/6_.jpg)
+Biển gần nhà
+Bao nhiêu năm mới ra lại đây nhỉ
+Hơn 10 năm
 
 ![](/assets/DN/7.jpg)
 
@@ -27,7 +36,8 @@ updated: 2019-03-01 15:00
 
 ![](/assets/DN/10.jpg)
 
-![](/assets/DN/11.jpg)
+
+
 
 
 
