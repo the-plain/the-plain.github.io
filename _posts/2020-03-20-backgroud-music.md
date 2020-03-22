@@ -8,5 +8,4 @@ updated: 2020-03-20 18:39
 Nếu cuộc đời là một phim thì đây là nhạc nền của bộ phim.
 Nếu xem nhà mình là một quán cafe thì đây là bài nhạc của cái quán đó.
 
-Từ ngày biết bài đoạn này thì mở hoài.
 Để hẳn một cái Doc sạc BB không sim chỉ để mở bài này. 
