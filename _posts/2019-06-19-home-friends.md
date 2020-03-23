@@ -15,7 +15,9 @@ Chờ đón...
 
 Quảng Điền.
 
-Hồi ở Huế đạp xe về nhà Đ theo đường này.
+Hồi ở Huế có 2 lần đạp xe về nhà Đ theo đường này.
+
+Đây là lần thứ 3 !?
 
 ![](/assets/DN/2.jpg)
 
