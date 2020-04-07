@@ -15,9 +15,7 @@ Chờ đón...
 
 Quảng Điền.
 
-Hồi ở Huế có 2 lần đạp xe về nhà Đ theo đường này.
-
-Đây là lần thứ 3 !?
+Hồi ở Huế có 2 lần đạp xe về nhà Đ theo đường này, lần thứ 3 !?
 
 ![](/assets/DN/2.jpg)
 
@@ -29,9 +27,9 @@ Hồi ở Huế có 2 lần đạp xe về nhà Đ theo đường này.
 
 ![](/assets/DN/6.jpg)
 
-Biển gần nhà (13km)
+Biển gần nhà (13km).
 
-Hơn 10 năm mới ra lại đây nhỉ.
+Hơn 10 năm.
 
 ![](/assets/DN/7.jpg)
 
