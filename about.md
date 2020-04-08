@@ -29,26 +29,5 @@ Github.io cho tĩnh vậy.
     Thì ta cũng có một thanh xuân đẹp
         Trước khi ngày tháng hư hao
     
-    Có những đêm anh nằm co
-        Mơ ngày trong xanh hoan ca
-    Không lo được, không lo mất
-        Ưu phiền trong anh tan ra
-    
-    Và anh hát như người đàn ông
-        Không cần điều gì chăm bẵm đâu
-    Em sẽ lạc vào trong con ngõ
-        Tâm hồn của anh thăm thẳm sâu
-    
-    Một ngày thứ nhạc mà anh chơi
-        Không chỉ lan truyền trong xó xỉnh nữa
-    Đi muôn nơi đến muôn tai
-        Không cần thiết phải có chỉnh sửa
-    
-    Anh chưa bao giờ được dạy
-        Về cách để trở nên rất giàu
-    Thế nên yên tâm một điều
-        Là nhạc anh sẽ còn mơ
-    
-    Mơ đến rất lâu. <<<Đen>>>.
+    <<<Đen>>>.
 
-**Less is more..**
