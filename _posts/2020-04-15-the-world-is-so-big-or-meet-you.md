@@ -24,4 +24,4 @@ We've been together for many years
 No matter how far away
 Never forget our friendship.
 
->>>k.m.f>>>
+>>> ... >>>
