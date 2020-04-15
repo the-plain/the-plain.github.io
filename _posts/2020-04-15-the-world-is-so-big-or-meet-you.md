@@ -3,8 +3,6 @@ title: The world is so big or meet you
 updated: 2020-04-15 00:30
 ---
 
-### The world is so big or meet you.
-
     Backpacks witness the memories of our youth
     We're going to separate and start our lives
     Just get to this intersection
