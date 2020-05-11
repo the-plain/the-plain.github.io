@@ -16,8 +16,7 @@ lowwerd your head and smelt a burst of fragrance.
 The future chaser.
 If you're the fireworks over the sea then I'm the foam on the waves.
 For a moment, the light illuminates you.
-if you're a distant galaxy.
-so dazzling as to make me want to. 
+If you're a distant galaxy, so dazzling as to make me want to. 
 I'm the eyes following you, always gazing at the night sky when lonely.
 
 The future chaser.
