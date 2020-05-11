@@ -4,14 +4,13 @@ updated: 2020-04-15 00:00
 ---
 ### The Future chaser
 
-Afterwards, I have finally learn how to love.
+Afterwards, I have finally learn how to.
 But regretfully, you vanished in the crowd.
 
-The future chaser.
+The future chaser. 
 The gardenia with white petals.
 Drifted down and feel onto your blue pleated skirt.
-love you, said it softly. 
-lowwerd your head and smelt a burst of fragrance.
+Love you, said it softly, owwerd your head and smelt a burst of fragrance.
 
 The future chaser.
 If you're the fireworks over the sea then I'm the foam on the waves.
@@ -25,6 +24,6 @@ I can wait at this crossroad no matter if you pass by or not.
 every time I lift my head for you, event tears feel free. 
 some love is like a sunset, having and losing at the same time.
 
-if you're the summer evening firefly with chilren singing songs for you.
-then I'm the hand that wants to draw you.
+If you're the summer evening firefly with chilren singing songs for you.
+Then I'm the hand that wants to draw you.
 Some love is like torrential rain but still believing in rainbows.
