@@ -10,7 +10,7 @@ But regretfully, you vanished in the crowd.
 The future chaser. 
 The gardenia with white petals.
 Drifted down and feel onto your blue pleated skirt.
-Love you, said it softly, owwerd your head and smelt a burst of fragrance.
+Love you, said it softly, lowerd your head and smelt a burst of fragrance.
 
 The future chaser.
 If you're the fireworks over the sea then I'm the foam on the waves.
