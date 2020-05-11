@@ -19,10 +19,10 @@ If you're a distant galaxy, so dazzling as to make me want to.
 I'm the eyes following you, always gazing at the night sky when lonely.
 
 The future chaser.
-because I have dreams to dream.
+Because I have dreams to dream.
 I can wait at this crossroad no matter if you pass by or not.
-every time I lift my head for you, event tears feel free. 
-some love is like a sunset, having and losing at the same time.
+Every time I lift my head for you, event tears feel free. 
+Some love is like a sunset, having and losing at the same time.
 
 If you're the summer evening firefly with chilren singing songs for you.
 Then I'm the hand that wants to draw you.
